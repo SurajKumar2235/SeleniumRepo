@@ -1,0 +1,10 @@
+Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+https://www.amazon.in/
+<bound method WebDriver.get_window_rect of <selenium.webdriver.firefox.webdriver.WebDriver (session="f38be011-ad60-4bab-8e2f-62c9fafa4da6")>>
+<bound method WebDriver.get_downloadable_files of <selenium.webdriver.firefox.webdriver.WebDriver (session="f38be011-ad60-4bab-8e2f-62c9fafa4da6")>>
+<bound method WebDriver.get_window_size of <selenium.webdriver.firefox.webdriver.WebDriver (session="f38be011-ad60-4bab-8e2f-62c9fafa4da6")>>
+<bound method WebDriver.get_window_position of <selenium.webdriver.firefox.webdriver.WebDriver (session="f38be011-ad60-4bab-8e2f-62c9fafa4da6")>>
+<bound method WebDriver.get_full_page_screenshot_as_png of <selenium.webdriver.firefox.webdriver.WebDriver (session="f38be011-ad60-4bab-8e2f-62c9fafa4da6")>>
+succ
+1705070529.1662009
+2024-01-12 20:12:04.277224
